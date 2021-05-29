@@ -1,5 +1,6 @@
 {
   'receiver_email': '',
   'sender_email': '',
-  'password': ''
+  'password': '',
+  'fpl_user': ''
 }
